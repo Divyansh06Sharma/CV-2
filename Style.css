@@ -1,0 +1,149 @@
+body{
+    margin:0;
+   text-align: center;
+   font-family: 'Merriweather', serif;
+
+  
+}
+h1{
+    font-family: 'Square Peg', cursive;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    color:  #66BFBF;
+    line-height: 2 ;
+}
+.heading{
+    font-size: 2.5rem;
+    font-weight: normal;   
+    
+}
+.L{
+    margin:0;
+    background-color: #EAF9F5;
+ padding: 100px;
+  
+    
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 40px; 
+    margin-top: 40px;
+}
+a{
+    color:  #11999E;
+ margin: 10px;
+ text-decoration: none;
+}
+a:hover{
+ color: #EAF6F6;
+}
+
+
+
+.Top-Cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.Bottom-Cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.contact-me{
+    margin-bottom: 40px;
+}
+.copyright{
+    font-size: 0.75rem;
+    color: #EAF6F6;
+    padding: 20px 0;
+}
+.code-img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+     border-radius: 40px;
+}
+.football{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+border-radius: 40px;
+}
+
+h2{
+    color:  #66BFBF;
+}
+h3{
+    color:  #11999E;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.old{
+    line-height: 2;
+   
+}
+.photu{
+    border-radius: 186px;
+}
+.style{
+    border: 4px dotted ;
+    border-width: 0.4em 0 0 0 ;
+    height: 0;
+    color: #EAF6F6;
+    
+    width: 5%;
+}
+.dotted{
+    border: 4px dotted ;
+    border-width: 0.4em 0 0 0 ;
+    height: 0;
+    color: #EAF6F6;
+    
+    width: 5%;
+    margin-bottom: 40px;
+}
+.BUTTON_DXP {
+    background: #3D94F6;
+    background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+    background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+    background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+    background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+    background-image: -webkit-gradient(to bottom, #3D94F6, #1E62D0);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: Open Sans;
+    font-size: 18px;
+    font-weight: 100;
+    padding: 9px;
+    -webkit-box-shadow: 1px 1px 20px 0 #000000;
+    -moz-box-shadow: 1px 1px 20px 0 #000000;
+    box-shadow: 1px 1px 20px 0 #000000;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #337FED 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .BUTTON_DXP:hover {
+    border: solid #337FED 1px;
+    background: #1E62D0;
+    background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
